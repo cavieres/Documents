@@ -21,12 +21,13 @@
         <asp:Label ID="Label1" runat="server" EnableViewState="False" Font-Bold="True" ForeColor="#FF8080"></asp:Label>
         <asp:Label ID="Label2" runat="server" EnableViewState="False" Font-Bold="True" ForeColor="#00C000"></asp:Label>
     </p>
-    <telerik:RadAjaxManager ID="RadAjaxManager1" runat="server">
+    <telerik:RadAjaxManager ID="RadAjaxManager1" runat="server" DefaultLoadingPanelID="RadAjaxLoadingPanel1" ClientIDMode="Static">
         <AjaxSettings>
-            <telerik:AjaxSetting AjaxControlID="RadGrid1">
+            <telerik:AjaxSetting AjaxControlID="GrillaConvenios">
                 <UpdatedControls>
-                    <telerik:AjaxUpdatedControl ControlID="RadGrid1" LoadingPanelID="RadAjaxLoadingPanel1"></telerik:AjaxUpdatedControl>
-                    <telerik:AjaxUpdatedControl ControlID="divMsgs"></telerik:AjaxUpdatedControl>
+                    <telerik:AjaxUpdatedControl ControlID="GrillaConvenios"/>
+                    <telerik:AjaxUpdatedControl ControlID="divMsgs"/>
+                    <telerik:AjaxUpdatedControl ControlID="RadInputManager1" />
                 </UpdatedControls>
             </telerik:AjaxSetting>
         </AjaxSettings>
@@ -44,13 +45,12 @@
 
 
         <telerik:RadGrid RenderMode="Lightweight" ID="GrillaConvenios" runat="server" CssClass="RadGrid" GridLines="None"
-            AllowPaging="True" PageSize="20" AllowSorting="True" AutoGenerateColumns="False"
-            ShowStatusBar="true" AllowAutomaticDeletes="True" AllowAutomaticInserts="True"
-            AllowAutomaticUpdates="True">
+            AllowPaging="True" PageSize="3" AllowSorting="True" AutoGenerateColumns="False"
+            ShowStatusBar="true">
             <MasterTableView CommandItemDisplay="TopAndBottom" GridLines="None"
                 DataKeyNames="Tramo" AllowFilteringByColumn="False" AllowSorting="True">
                 <Columns>
-                    <telerik:GridEditCommandColumn EditText="Modificar" />
+                    <telerik:GridEditCommandColumn EditText="Modificar" UniqueName="EditCommandColumn" />
                     <telerik:GridBoundColumn DataField="CodConv" HeaderText="Product ID" ReadOnly="true"
                         ForceExtractValue="Always" ConvertEmptyStringToNull="true" Visible="false" />
                     <telerik:GridBoundColumn DataField="Tramo" HeaderText="Tramo" />
@@ -77,7 +77,7 @@
                                             <td>Tramo:
                                             </td>
                                             <td>
-                                                <asp:TextBox ID="TextBox7" runat="server" Text='<%# Bind("Tramo") %>'>
+                                                <asp:TextBox ID="txtTramo" runat="server" Text='<%# Bind("Tramo") %>'>
                                                 </asp:TextBox>
                                             </td>
                                         </tr>
@@ -85,7 +85,7 @@
                                             <td>Cantidad de días:
                                             </td>
                                             <td>
-                                                <asp:TextBox ID="TextBox1" runat="server" Text='<%# Bind("Dias") %>'>
+                                                <asp:TextBox ID="txtDias" runat="server" Text='<%# Bind("Dias") %>'>
                                                 </asp:TextBox>
                                             </td>
                                         </tr>
@@ -93,10 +93,10 @@
                                             <td>Tipo de días:
                                             </td>
                                             <td>
-                                                <asp:DropDownList ID="ddlTOC" runat="server" SelectedValue='<%# Bind("TipoDias") %>'
-                                                    DataSource='<%# (New String() {"1", "2", "3", "4"}) %>' TabIndex="7"
+                                                <asp:DropDownList OnInit="ddlTipoDias_Init" ID="ddlTipoDias" runat="server" SelectedValue='<%# Bind("TipoDias") %>'
+                                                    DataSourceID="sqlDs" TabIndex="7" DataTextField="Descrip" DataValueField="Codigo"
                                                     AppendDataBoundItems="True">
-                                                    <asp:ListItem Selected="True" Text="Select" Value="">
+                                                    <asp:ListItem Selected="True" Text="Seleccione" Value="">
                                                     </asp:ListItem>
                                                 </asp:DropDownList>
                                             </td>
@@ -131,6 +131,10 @@
         </telerik:RadGrid>
     </div>
     
+        <asp:SqlDataSource ID="sqlDs" runat="server" DataSourceMode="DataSet">
+        </asp:SqlDataSource>  
+
+        <telerik:RadWindowManager RenderMode="Lightweight" ID="RadWindowManager1" runat="server" />
     </form>
 </body>
 </html>

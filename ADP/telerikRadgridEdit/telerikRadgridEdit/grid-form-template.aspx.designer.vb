@@ -129,4 +129,22 @@ Partial Public Class grid_form_template
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents GrillaConvenios As Global.Telerik.Web.UI.RadGrid
+    
+    '''<summary>
+    '''Control sqlDs.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents sqlDs As Global.System.Web.UI.WebControls.SqlDataSource
+    
+    '''<summary>
+    '''Control RadWindowManager1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents RadWindowManager1 As Global.Telerik.Web.UI.RadWindowManager
 End Class
