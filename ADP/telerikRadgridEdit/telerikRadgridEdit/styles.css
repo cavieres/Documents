@@ -1,0 +1,10 @@
+﻿.MyImageButton
+{
+    cursor: hand;
+}
+.EditFormHeader td
+{
+    font-size: 14px;
+    padding: 4px !important;
+    color: #0066cc;
+}

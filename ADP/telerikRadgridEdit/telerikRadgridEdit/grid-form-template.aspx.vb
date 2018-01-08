@@ -91,37 +91,36 @@ Partial Class grid_form_template
     End Sub
 
     Protected Sub RadGrid1_ItemCommand(ByVal source As Object, ByVal e As Telerik.Web.UI.GridCommandEventArgs) Handles GrillaConvenios.ItemCommand
-        If e.CommandName = RadGrid.InitInsertCommandName Then '"Add new" button clicked
 
-            Dim editColumn As GridEditCommandColumn = CType(GrillaConvenios.MasterTableView.GetColumn("EditCommandColumn"), GridEditCommandColumn)
-            editColumn.Visible = False
-        ElseIf (e.CommandName = RadGrid.RebindGridCommandName AndAlso e.Item.OwnerTableView.IsItemInserted) Then
-            e.Canceled = True
-        Else
-            Dim editColumn As GridEditCommandColumn = CType(GrillaConvenios.MasterTableView.GetColumn("EditCommandColumn"), GridEditCommandColumn)
-            If Not editColumn.Visible Then
-                editColumn.Visible = True
-            End If
+        Dim vacationService As New VacationService()
 
-        End If
+        Select Case e.CommandName
+            Case RadGrid.UpdateCommandName
+
+                Dim editedItem As GridEditableItem = CType(e.Item, GridEditableItem)
+                Dim tramo = editedItem("Tramo").Text
+
+                e.Item.Edit = False
+            Case RadGrid.PerformInsertCommandName
+                e.Item.Display = False
+            Case RadGrid.DeleteCommandName
+                Dim codConv = listCodConv.SelectedItem.Value
+
+                Dim editedItem As GridEditableItem = CType(e.Item, GridEditableItem)
+                Dim tramo = editedItem("Tramo").Text
+
+                DisplayMessage(False, "no se grabará")
+                'vacationService.DeleteVacationAgreement(codConv, tramo)
+        End Select
+
+        GrillaConvenios.Rebind()
     End Sub
 
-    Protected Sub RadGrid1_PreRender(ByVal sender As Object, ByVal e As System.EventArgs) Handles GrillaConvenios.PreRender
-        If (Not Page.IsPostBack) Then
-            GrillaConvenios.EditIndexes.Add(0)
-            GrillaConvenios.Rebind()
-        End If
-    End Sub
+    'Protected Sub RadGrid1_PreRender(ByVal sender As Object, ByVal e As System.EventArgs) Handles GrillaConvenios.PreRender
+    '    If (Not Page.IsPostBack) Then
+    '        GrillaConvenios.EditIndexes.Add(0)
+    '        GrillaConvenios.Rebind()
+    '    End If
+    'End Sub
 
-    Protected Sub GrillaConvenios_InsertCommand(ByVal source As Object, ByVal e As GridCommandEventArgs) Handles GrillaConvenios.InsertCommand
-        Dim userControl As UserControl = CType(e.Item.FindControl(GridEditFormItem.EditFormUserControlID), UserControl)
-
-        'Prepare new row to add it in the DataSource
-        'Dim newRow As DataRow = Me.Employees.NewRow
-
-        'Insert new values
-        Dim newValues As Hashtable = New Hashtable
-
-        newValues("Tramo") = CType(userControl.FindControl("TextBox7"), TextBox).Text
-    End Sub
 End Class

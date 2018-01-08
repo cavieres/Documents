@@ -1,0 +1,94 @@
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.Resources.resources
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.vbproj.GenerateResource.Cache
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\ApplicationInsights.config
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\csc.exe
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\vbc.exe
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\VBCSCompiler.exe
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.dll.config
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.pdb
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.Web.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.ApplicationInsights.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Telerik.Web.Design.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Telerik.Web.UI.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Telerik.Web.UI.Skins.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AnalysisServices.AdomdClient.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.Web.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.ApplicationInsights.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.pdb
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.vbprojResolveAssemblyReference.cache
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.Net4.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\PayRollFramework.DataAccess.Base.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\PayRollFramework.Utils.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\SpreadsheetGear.dll
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.pdb
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.xml
+c:\users\rcavier\documents\visual studio 2015\Projects\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.Net4.pdb
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\ApplicationInsights.config
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\csc.exe
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\vbc.exe
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\VBCSCompiler.exe
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.Net4.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.dll.config
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.pdb
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\telerikRadgridEdit.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.Web.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\PayRollFramework.Utils.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\SpreadsheetGear.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.pdb
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\AutoMapper.Net4.pdb
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.Web.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.vbprojResolveAssemblyReference.cache
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.Resources.resources
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.vbproj.GenerateResource.Cache
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.dll
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.xml
+C:\Users\cavie\desarrollo\Documents\ADP\telerikRadgridEdit\telerikRadgridEdit\obj\Debug\telerikRadgridEdit.pdb

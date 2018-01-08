@@ -1,0 +1,379 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+telerikRadgridEdit
+</name>
+</assembly>
+<members>
+<member name="F:telerikRadgridEdit.DefaultVB._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._RadScriptManager1">
+<summary>
+Control RadScriptManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._RadAjaxManager1">
+<summary>
+Control RadAjaxManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._RadAjaxLoadingPanel1">
+<summary>
+Control RadAjaxLoadingPanel1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._listCodConv">
+<summary>
+Control listCodConv.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._listFechaVigencia">
+<summary>
+Control listFechaVigencia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._calInicioVigencia">
+<summary>
+Control calInicioVigencia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._calFinVigencia">
+<summary>
+Control calFinVigencia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._btnAgregarFechaVigencia">
+<summary>
+Control btnAgregarFechaVigencia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._GrillaConvenios">
+<summary>
+Control GrillaConvenios.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._RadInputManager1">
+<summary>
+Control RadInputManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.DefaultVB._RadWindowManager1">
+<summary>
+Control RadWindowManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="M:telerikRadgridEdit.DefaultVB.ShowErrorMessage">
+ <summary>
+ Shows a <see cref="T:Telerik.Web.UI.RadWindow"/> alert if an error occurs
+ </summary>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadCodeBlock1">
+<summary>
+Control RadCodeBlock1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadScriptManager1">
+<summary>
+Control RadScriptManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadSkinManager1">
+<summary>
+Control RadSkinManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._divMsgs">
+<summary>
+Control divMsgs.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._Label1">
+<summary>
+Control Label1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._Label2">
+<summary>
+Control Label2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadAjaxManager1">
+<summary>
+Control RadAjaxManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadAjaxLoadingPanel1">
+<summary>
+Control RadAjaxLoadingPanel1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadFormDecorator1">
+<summary>
+Control RadFormDecorator1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._RadGrid1">
+<summary>
+Control RadGrid1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.defaultvb2._SqlDataSource1">
+<summary>
+Control SqlDataSource1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._RadCodeBlock1">
+<summary>
+Control RadCodeBlock1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._RadScriptManager1">
+<summary>
+Control RadScriptManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._RadSkinManager1">
+<summary>
+Control RadSkinManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._divMsgs">
+<summary>
+Control divMsgs.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._Label1">
+<summary>
+Control Label1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._Label2">
+<summary>
+Control Label2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._RadAjaxManager1">
+<summary>
+Control RadAjaxManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._RadAjaxLoadingPanel1">
+<summary>
+Control RadAjaxLoadingPanel1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._RadFormDecorator1">
+<summary>
+Control RadFormDecorator1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._listCodConv">
+<summary>
+Control listCodConv.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._listFechaVigencia">
+<summary>
+Control listFechaVigencia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:telerikRadgridEdit.grid_form_template._GrillaConvenios">
+<summary>
+Control GrillaConvenios.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="T:telerikRadgridEdit.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:telerikRadgridEdit.My.MyWebExtension.Computer">
+ <summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member>
+<member name="P:telerikRadgridEdit.My.MyWebExtension.User">
+ <summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member>
+<member name="P:telerikRadgridEdit.My.MyWebExtension.Request">
+ <summary>
+ Devuelve un objeto Request.
+ </summary>
+</member>
+<member name="P:telerikRadgridEdit.My.MyWebExtension.Response">
+ <summary>
+ Devuelve un objeto Response.
+ </summary>
+</member>
+<member name="P:telerikRadgridEdit.My.MyWebExtension.Log">
+ <summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member>
+</members>
+</doc>
