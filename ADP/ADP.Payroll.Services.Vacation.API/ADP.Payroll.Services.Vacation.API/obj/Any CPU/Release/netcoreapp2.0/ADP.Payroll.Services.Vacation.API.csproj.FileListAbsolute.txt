@@ -1,0 +1,10 @@
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\bin\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.deps.json
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\bin\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.runtimeconfig.json
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\bin\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.runtimeconfig.dev.json
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\bin\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.dll
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\bin\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.pdb
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\obj\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.csproj.CoreCompileInputs.cache
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\obj\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.AssemblyInfoInputs.cache
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\obj\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.AssemblyInfo.cs
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\obj\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.dll
+C:\Desarrollo\ADP.Payroll.Services.Vacation.API\ADP.Payroll.Services.Vacation.API\obj\Any CPU\Release\netcoreapp2.0\ADP.Payroll.Services.Vacation.API.pdb
