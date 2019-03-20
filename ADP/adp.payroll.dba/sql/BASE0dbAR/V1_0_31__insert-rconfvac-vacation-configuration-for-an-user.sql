@@ -1,0 +1,11 @@
+INSERT INTO rconfvac VALUES ('15          ', 2018, 7, 2, 7, 4, '2050-12-30')
+INSERT INTO rconfvac values ('22          ', 2010, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2011, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2012, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2013, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2014, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2015, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2016, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2017, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2018, 7, 0, 0, 4, '2050-12-30');
+INSERT INTO rconfvac values ('22          ', 2019, 7, 0, 0, 4, '2050-12-30');

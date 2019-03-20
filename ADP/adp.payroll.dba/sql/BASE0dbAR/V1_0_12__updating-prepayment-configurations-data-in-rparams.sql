@@ -1,0 +1,1 @@
+UPDATE RPARAMS SET Param = '1RE0001RD000156311326116 9                                       3  3' WHERE Copar = 'APANTICIPOS'

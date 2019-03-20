@@ -1,0 +1,5 @@
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Estado) VALUES ('T', 4, 0, 'TIPO DIAS VACACIONES                    ', 'S')
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Estado) VALUES ('C', 4, 1, 'Legales corridos                        ', 'S')
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Estado) VALUES ('C', 4, 2, 'Legales hábiles                         ', 'S')
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Estado) VALUES ('C', 4, 3, 'Adicionales corridos                    ', 'S')
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Estado) VALUES ('C', 4, 4, 'Adicionales habiles                     ', 'S')

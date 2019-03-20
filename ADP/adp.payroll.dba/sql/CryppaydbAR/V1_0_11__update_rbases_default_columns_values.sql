@@ -1,0 +1,1 @@
+UPDATE CryppayAR..Rbases SET NandS = '', ModuloDocu = '', TipoTranf = ''

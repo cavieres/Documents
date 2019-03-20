@@ -1,0 +1,1 @@
+UPDATE REMPLES SET pmail = 'representanterrhh@adp.com' WHERE Codigo = '      BORRAR'

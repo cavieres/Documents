@@ -1,0 +1,1 @@
+ALTER TABLE Rtablas ADD Estado char(1) null

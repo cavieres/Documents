@@ -1,0 +1,5 @@
+INSERT INTO Rliquid VALUES ('      BORRAR', '201611', '7', 'H00250', 1, 'Horas extras al 50%                                                     ', 10250, 3738.30, 34.00, 0.00, 34.00, 0, 1, 'N', 9017975, 0, 'P', 0, 0, '              ', '        N ', 0, 0)
+INSERT INTO Rliquid VALUES ('      BORRAR', '201611', '7', 'H00251', 1, 'Horas extras al 100%                                                    ', 10251, 733.00, 5.00, 0.00, 5.00, 0, 1, 'N', 9017975, 0, 'P', 0, 0, '              ', '        N ', 0, 0)
+
+INSERT INTO Rliquid VALUES ('      BORRAR', '201611', '7', 'SIJPNR', 2, 'SICOSS: No remunerativos                                                ', 20969, 1146.00, 0.00, 0.00, 0.00, 1, 1, 'S', 7, 0, 'P', 0, 0, '              ', '     AH I ', 0, 0)
+INSERT INTO Rliquid VALUES ('      BORRAR', '201611', 'M', 'SIJPNR', 2, 'SICOSS: No remunerativos                                                ', 20969, 1146.00, 1146.00, 0.00, 0.00, 1, 1, 'S', 7, 0, 'P', 0, 0, '              ', '        I ', 0, 0)

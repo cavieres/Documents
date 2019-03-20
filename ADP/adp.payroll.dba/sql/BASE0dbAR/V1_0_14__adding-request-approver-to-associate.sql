@@ -1,0 +1,1 @@
+UPDATE REMPLES SET Autoriza = '         188' WHERE Codigo = '         202'

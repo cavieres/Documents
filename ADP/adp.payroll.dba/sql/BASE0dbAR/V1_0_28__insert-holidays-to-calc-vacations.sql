@@ -1,0 +1,3 @@
+INSERT INTO RFERIAD VALUES (0, '2018-10-15', 'F', 'Fer. lunes', '')
+INSERT INTO RFERIAD VALUES (0, '2018-11-19', 'F', 'Fer. lunes', '')
+INSERT INTO RFERIAD VALUES (0, '2018-12-25', 'S', 'Navidad', '')

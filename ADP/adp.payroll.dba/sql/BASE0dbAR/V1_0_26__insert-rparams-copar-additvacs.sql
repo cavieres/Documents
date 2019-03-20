@@ -1,0 +1,1 @@
+insert into RPARAMS VALUES ('ADDITVACS', 'Vacaciones adicionales AR', '', 0, 'Codigo;ANIO;Diasvac;tipo_con;Antig;tipo_dias;Fecha_vig;', 0);

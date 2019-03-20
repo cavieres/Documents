@@ -1,0 +1,1 @@
+INSERT INTO RPARAMS(Copar, Param) VALUES('CONFIMAILRE ', 'sender@adp.com')

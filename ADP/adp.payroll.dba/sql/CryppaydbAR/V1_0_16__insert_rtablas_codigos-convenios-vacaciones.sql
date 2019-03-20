@@ -1,0 +1,2 @@
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Valor, Estado) VALUES ('T', 3, 0, 'CÓDIGOS DE CONVENIOS VACACIONES         ', 0, 'S')
+INSERT INTO RTABLAS (Tipo, Cotab, Codigo, Descrip, Valor, Estado) VALUES ('C', 3, 1, 'Fuera de Convenio                       ', 1, 'S')
