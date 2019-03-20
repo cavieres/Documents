@@ -1,0 +1,76 @@
+{
+  "UAT": {
+    "url": "http://11.240.74.24/Expert/inicio/",
+    "usuarios": {
+      "admin": {
+        "usadmin": {
+          "usuario": "ADMIN",
+          "clave": "123456"
+        }
+      },
+      "autoconsulta": {
+        "us505005023": {
+          "usuario": "50500502-3",
+          "clave": "Ser123++"
+        },
+        "us1025": {
+          "usuario": "1025",
+          "clave": "Adp2017."
+        },
+        "us505005007": {
+          "usuario": "50500500-7",
+          "clave": "Adp2018."
+        }
+      }
+    },
+    "clientes": {
+      "clauto56": {
+        "cuenta": "AUTO56",
+        "datos": "AUTO56",
+        "dominio": "PAYROLLUAT"
+      },
+      "clworley": {
+        "cuenta": "WORLEY",
+        "datos": "WORLEY",
+        "dominio": "PAYROLLUAT"
+      }
+    }
+  },
+  "UATBETA": {
+    "url": "http://11.240.74.31/Expert/inicio/",
+    "usuarios": {
+      "admin": {
+        "usadmin": {
+          "usuario": "ADMIN",
+          "clave": "123456"
+        }
+      },
+      "autoconsulta": {
+        "us505005023": {
+          "usuario": "50500502-3",
+          "clave": "Ser123++"
+        },
+        "us1025": {
+          "usuario": "1025",
+          "clave": "Adp2017."
+        },
+        "us505005007": {
+          "usuario": "50500500-7",
+          "clave": "Adp2018."
+        }
+      }
+    },
+    "clientes": {
+      "clauto56": {
+        "cuenta": "AUTO56",
+        "datos": "AUTO56",
+        "dominio": "PAYROLLUAT"
+      },
+      "clworley": {
+        "cuenta": "WORLEY",
+        "datos": "WORLEY",
+        "dominio": "PAYROLLUAT"
+      }
+    }
+  }
+}

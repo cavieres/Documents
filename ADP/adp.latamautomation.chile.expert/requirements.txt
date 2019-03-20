@@ -1,0 +1,5 @@
+# Framework Scriptize
+-e git+https://bitbucket.es.ad.adp.com/scm/ala/adp.latam.scriptize.git#egg=scriptize
+
+# Behave
+-e git+https://github.com/behave/behave.git#egg=behave

@@ -1,0 +1,4 @@
+# These patterns will be ignored by git
+.idea/
+*.pyc
+geckodriver.log
